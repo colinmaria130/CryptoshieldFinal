@@ -1,4 +1,4 @@
-============================== 🔐 CRYPTOSHIELD README Data Encryption and Security ==============================
+🔐 CRYPTOSHIELD README Data Encryption and Security
 
 📌 OVERVIEW 
 CryptoShield is a secure communication and file-sharing
