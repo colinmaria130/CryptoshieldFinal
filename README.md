@@ -29,10 +29,10 @@ authentication methods.
 
 🧠 TECHNOLOGIES USED
 
-Frontend : HTML, CSS, JavaScript 
-Backend : PHP, JavaScript 
-Database : MySQL 
-Encryption: AES
+1. Frontend : HTML, CSS, JavaScript 
+2. Backend : PHP, JavaScript 
+3. Database : MySQL 
+4. Encryption: AES
 
 ------------------------------------------------------------------------
 
