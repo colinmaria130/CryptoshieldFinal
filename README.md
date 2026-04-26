@@ -12,18 +12,18 @@ authentication methods.
 
 🎯 OBJECTIVES 
 
-• Secure user login
-• Encrypt and decrypt files securely using AES
-• Enable safe file sharing between users
+1. Secure user login
+2. Encrypt and decrypt files securely using AES
+3. Enable safe file sharing between users
 
 ------------------------------------------------------------------------
 
 🚀 FEATURES
 
-• 🔑 Secure Login System (OTP-based) 
-• 📁 File Encryption & Decryption 
-• 🔐 Secure File Sharing (User-based access) 
-• 📊 Activity Logs
+1. 🔑 Secure Login System (OTP-based) 
+2. 📁 File Encryption & Decryption 
+3. 🔐 Secure File Sharing (User-based access) 
+4. 📊 Activity Logs
 
 ------------------------------------------------------------------------
 
@@ -46,40 +46,40 @@ authentication methods.
 
 🔐 SECURITY FEATURES 
 
-• AES Encryption for files
-• User authentication 
-• Role-based access control
+1. AES Encryption for files
+2. User authentication 
+3. Role-based access control
 
 ------------------------------------------------------------------------
 
 👥 TARGET USERS 
 
-• Barangay Officials
-• Government Offices 
+1. Barangay Officials
+2. Government Offices 
 
 ------------------------------------------------------------------------
 
 ⚠️ LIMITATIONS 
 
-• No biometric authentication yet 
-• Slower performance for large files 
-• Files can only be decrypted inside the system
+1. No biometric authentication yet 
+2. Slower performance for large files 
+3. Files can only be decrypted inside the system
 
 ------------------------------------------------------------------------
 
 📈 FUTURE IMPROVEMENTS 
 
-• Add biometric or authenticator login 
-• Improve system performance 
-• Implement cloud backup and recovery
-• Enhance UI/UX design
+1. Add biometric or authenticator login 
+2. Improve system performance 
+3. Implement cloud backup and recovery
+4. Enhance UI/UX design
 
 ------------------------------------------------------------------------
 
 👨‍💻 DEVELOPERS 
 
-• Colin Maria Pampango 
-• Frinces Joy Patenio 
-• Melesa Gabayeron
+1. Colin Maria Pampango 
+2. Frinces Joy Patenio 
+3. Melesa Gabayeron
 
 ------------------------------------------------------------------------
