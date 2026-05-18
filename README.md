@@ -69,11 +69,11 @@ authentication methods.
 
 👤 USER ACCOUNTS 
 
-1. Admin
+1. Admin:
    Email Address: coca.pampango.ui@phinmaed.com
    Password: Colin123
 
-2. Officials
+2. Officials:
    Email Address: kpampanago@gmail.com
    Password: Kenneth@2002
 
